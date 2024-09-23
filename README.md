@@ -1,0 +1,1 @@
+A laravel project which manages students, their baches anad courses and whee they are enrolling which batch they have , this project contains everything thing. Different tables are connected with each other 
